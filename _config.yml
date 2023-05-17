@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Yifei Xiong's personal homepage"
+title                    : "Yifei Xiong's Homepage"
 title_separator          : "-"
 name                     : &name "Yifei Xiong"
 description              : &description "personal description"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "nightwso"
+  steam            : # "nightwso"
   tumblr           : # "https://twitter.com/nightwso11"
   twitter          : "nightwso11" # "replacethistwitterhandle"
   vine             :
