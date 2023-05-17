@@ -83,7 +83,7 @@ author:
   name             : "Yifei Xiong"
   avatar           : "profile.png"
   bio              : "Bug fixes and performance improvements"
-  location         : "Beijing, Chine"
+  location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=efqbO1YAAAAJ&hl=zh-CN" # "http://yourfullgooglescholarurl.com"
@@ -108,8 +108,8 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            : "https://steamcommunity.com/id/nightwso/"
-  tumblr           : "https://twitter.com/nightwso11"
-  twitter          : "replacethistwitterhandle"
+  tumblr           : # "https://twitter.com/nightwso11"
+  twitter          : "https://twitter.com/nightwso11" # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
