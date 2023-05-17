@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yifei Xiong"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Occasionally predict, often infer, always learn."
   location         : "Beijing, China"
   employer         :
@@ -99,7 +99,7 @@ author:
   github           : "Night1611"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/night_wso/"
+  instagram        : "night_wso"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "https://steamcommunity.com/id/nightwso/"
+  steam            : "nightwso"
   tumblr           : # "https://twitter.com/nightwso11"
   twitter          : "nightwso11" # "replacethistwitterhandle"
   vine             :
