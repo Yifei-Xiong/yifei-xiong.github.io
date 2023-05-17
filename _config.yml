@@ -85,9 +85,9 @@ author:
   bio              : "Bug fixes and performance improvements"
   location         : "Beijing, Chine"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=efqbO1YAAAAJ&hl=zh-CN" # "http://yourfullgooglescholarurl.com"
+  email            : "night@loli.gs"
   researchgate     : "https://www.researchgate.net/profile/Yifei-Xiong-4" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
