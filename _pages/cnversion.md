@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications & Talks"
-permalink: /publications/
+title: "熊逸飞"
+permalink: /cnversion/
 author_profile: true
 ---
 
