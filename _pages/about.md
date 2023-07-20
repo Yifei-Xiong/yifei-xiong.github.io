@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ## Yifei Xiong
-I am currently enrolled in a Master's program.  
+I am currently enrolled in a Master's program with a focus on Statistics and Machine Learning.  
+My research interests include Bayesian statistics, Monte Carlo methods, and machine learning techniques.  
 Email: xiongyifei21 [AT] mails.ucas.ac.cn
 
 ## News
@@ -21,6 +22,7 @@ Some of my undergraduate maths course notes are now available on [here](https://
 Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 
 - Sep 2017 - Jul 2021, B.S. in *Mathematics and Applied Mathematics*  
+Minor in *Computer Science and Technology*  
 [School of Mathematics](http://www2.scut.edu.cn/math/), [South China University of Technology](https://www.scut.edu.cn/new/)
 
 ## Talks
