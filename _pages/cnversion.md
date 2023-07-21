@@ -5,7 +5,7 @@ permalink: /cnversion/
 author_profile: true
 ---
 
-## 熊逸飞
+## 关于
 我目前就读于中国科学院大学数学科学学院，正在攻读概率论与数理统计专业硕士。我的研究兴趣包括贝叶斯统计、蒙特卡罗方法及机器学习算法。  
 邮箱: xiongyifei21 [AT] mails.ucas.ac.cn
 
