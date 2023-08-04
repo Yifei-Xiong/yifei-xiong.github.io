@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Submitted Papers
-
-- SNPE-B Revisited - Rethinking of Data efficiency and Variance reduction  
-**Yifei Xiong**, Xiliang Yang & Zhijian He  
-Under review.
-
 
 ## Publications
 
