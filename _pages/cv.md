@@ -18,6 +18,7 @@ GPA: 3.93 / 4.00;  No ranking provided for graduate studies
 - Sep 2017 - Jul 2021, B.S. in *Mathematics and Applied Mathematics*  
 Minor in *Computer Science and Technology*  
 [School of Mathematics](http://www2.scut.edu.cn/math/), [South China University of Technology](https://www.scut.edu.cn/new/)  
+Graduation Thesis Advisor: Prof. [Zhijian He](https://hezhijian.com.cn/)  
 GPA: 3.73 / 4.00;  Major Rank: 1 / 52
 
 ## Research Interests
