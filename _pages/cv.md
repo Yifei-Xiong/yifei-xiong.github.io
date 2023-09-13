@@ -28,8 +28,8 @@ GPA: 3.73 / 4.00;  Major Rank: 1 / 52
 
 ## Teaching Assistant
   Postgraduate Courses in University of Chinese Academy of Sciences:  
+- Advanced Probability (Fall 2023, Fall 2022) 
 - Stochastic Processes (Spring 2023)
-- Advanced Probability (Fall 2022) 
 
 ## Publications & Talks
 - For detailed information, please refer to [here](http://yifei-xiong.github.io/publications/)
