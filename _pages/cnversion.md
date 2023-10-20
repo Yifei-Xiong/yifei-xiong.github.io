@@ -21,11 +21,25 @@ author_profile: true
 [华南理工大学](https://www.scut.edu.cn/new/), [数学学院](http://www2.scut.edu.cn/math/), 数学与应用数学专业  
 辅修计算机科学与技术专业
 
-## 学术交流
+## 学术报告
+
+- SNPE-B Revisited: Rethinking of Data Efficiency and Variance Reduction  
+[第十届国际工业与应用数学联合会(ICIAM)](https://iciam2023.org/registered_data?id=00652#04320), 早稻田大学  
+
+
 - An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
 [第二十四届京津冀青年概率统计学术研讨会](https://mp.weixin.qq.com/s/LPwgNA87waDtVY_j1_9McA), 清华大学  
 
 ## 论文发表
+
+- Conditional Density Estimations from Privacy-Protected Data  
+**Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
+Under review, Oct 2023. [[arXiv](https://arxiv.org/submit/5183182)]
+
+- SNPE-B Revisited - Rethinking of Data efficiency and Variance reduction  
+**Yifei Xiong**, Xiliang Yang, Zhijian He  
+Under review, May 2023.
+
 - 3D Geometric Modeling Analysis of Contact Probability Effect in Carbon Black Oxidation over MnOx-CeO2 Catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
 *Chemical Engineering Journal*, May 2020. [[Article](https://doi.org/10.1016/j.cej.2020.125448)]
