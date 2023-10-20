@@ -41,7 +41,3 @@ GPA: 3.73 / 4.00;  Major Rank: 1 / 52
 - Programming and Data Manipulation: Python, R, Matlab, C++, C#, Mathematica  
 - Academic Collaboration: Working in Interdisciplinary Teams, Collaborative Research
 - Algorithm Design and Performance Analysis
-
-## Hobbies
-- Landscape Photography  
-- Playing Keyboard Instruments & Piano  

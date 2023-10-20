@@ -61,6 +61,3 @@ Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al
 - 学术合作： 跨学科团队工作、合作研究
 - 算法设计与性能分析
 
-## 爱好
-- 风光摄影
-- 键盘类乐器&钢琴
