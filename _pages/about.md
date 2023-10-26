@@ -17,11 +17,11 @@ Email: xiongyifei21 [AT] mails.ucas.ac.cn
 Some of my undergraduate maths course notes are now available on [here](https://bookdown.org/yifei/book/).
 
 ## Educations
-- Sep 2021 - Present, M.S. in *Probability and Mathematical Statistics*  
+- Sep 2021 - Present, M.Sc. in *Probability and Mathematical Statistics*  
 [School of Mathematical Sciences](https://math.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
 Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 
-- Sep 2017 - Jul 2021, B.S. in *Mathematics and Applied Mathematics*  
+- Sep 2017 - Jul 2021, B.Sc. in *Mathematics and Applied Mathematics*  
 Minor in *Computer Science and Technology*  
 [School of Mathematics](http://www2.scut.edu.cn/math/), [South China University of Technology](https://www.scut.edu.cn/new/)  
 Graduation Thesis Advisor: Prof. [Zhijian He](https://hezhijian.com.cn/)
@@ -43,7 +43,7 @@ Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.
 
 - Conditional Density Estimations from Privacy-Protected Data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
-Under review, Oct 2023. [[arXiv](https://arxiv.org/submit/5183182)]
+Under review, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
 
 - SNPE-B Revisited - Rethinking of Data efficiency and Variance reduction  
 **Yifei Xiong**, Xiliang Yang, Zhijian He  

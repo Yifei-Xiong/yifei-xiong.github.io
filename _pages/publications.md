@@ -9,7 +9,7 @@ author_profile: true
 
 - Conditional Density Estimations from Privacy-Protected Data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
-Under review, Oct 2023. [[arXiv](https://arxiv.org/submit/5183182)]
+Under review, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
 
 - SNPE-B Revisited - Rethinking of Data efficiency and Variance reduction  
 **Yifei Xiong**, Xiliang Yang, Zhijian He  

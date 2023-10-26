@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ## Educations
-- Sep 2021 - Present, M.S. in *Probability and Mathematical Statistics*  
+- Sep 2021 - Present, M.Sc. in *Probability and Mathematical Statistics*  
 [School of Mathematical Sciences](https://math.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
 Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)  
 GPA: 3.93 / 4.00;  No ranking provided for graduate studies
 
-- Sep 2017 - Jul 2021, B.S. in *Mathematics and Applied Mathematics*  
+- Sep 2017 - Jul 2021, B.Sc. in *Mathematics and Applied Mathematics*  
 Minor in *Computer Science and Technology*  
 [School of Mathematics](http://www2.scut.edu.cn/math/), [South China University of Technology](https://www.scut.edu.cn/new/)  
 Graduation Thesis Advisor: Prof. [Zhijian He](https://hezhijian.com.cn/)  
