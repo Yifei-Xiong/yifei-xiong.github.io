@@ -19,7 +19,7 @@ GPA: 3.93 / 4.00;  No ranking provided for graduate studies
 Minor in *Computer Science and Technology*  
 [School of Mathematics](http://www2.scut.edu.cn/math/), [South China University of Technology](https://www.scut.edu.cn/new/)  
 Graduation Thesis Advisor: Prof. [Zhijian He](https://hezhijian.com.cn/)  
-GPA: 3.73 / 4.00;  Major Rank: 1 / 52
+GPA: 3.76 / 4.00;  Major Rank: 1 / 50
 
 ## Research Interests
 - Sampling Methods: Multilevel Monte Carlo methods, Quasi-Monte Carlo methods  
