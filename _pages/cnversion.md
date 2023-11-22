@@ -36,9 +36,9 @@ author_profile: true
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
 Under review, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
 
-- SNPE-B Revisited - Rethinking of Data efficiency and Variance reduction  
-**Yifei Xiong**, Xiliang Yang, Zhijian He  
-Under review, May 2023.
+- An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
+**Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
+Under review, May 2023. [[arXiv](https://arxiv.org/abs/2311.12530)]
 
 - 3D Geometric Modeling Analysis of Contact Probability Effect in Carbon Black Oxidation over MnOx-CeO2 Catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
