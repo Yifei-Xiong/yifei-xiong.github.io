@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[[PDF File](http://yifei-xiong.github.io/files/Yifei_Xiong_cv.pdf)]
+
 ## Educations
 - Sep 2021 - Present, M.Sc. in *Probability and Mathematical Statistics*  
 [School of Mathematical Sciences](https://math.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
@@ -21,9 +23,9 @@ Minor in *Computer Science and Technology*
 Graduation Thesis Advisor: Prof. [Zhijian He](https://hezhijian.com.cn/)  
 GPA: 3.76 / 4.00;  Major Rank: 1 / 50
 
-## Research Interests
-- Sampling Methods: Multilevel Monte Carlo methods, Quasi-Monte Carlo methods  
+## Research Interests 
 - Bayesian Statistics: Likelihood-free Bayesian inference, Approximate Bayesian computation, Variational inference  
+- Sampling Methods: Multilevel Monte Carlo methods, Quasi-Monte Carlo methods 
 - Machine Learning: Normalizing flows, Variational autoencoders
 
 ## Teaching Assistant

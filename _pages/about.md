@@ -10,7 +10,7 @@ redirect_from:
 
 ## Yifei Xiong
 I am currently enrolled in a Master's program with a focus on Statistics and Machine Learning.  
-My research interests include Bayesian statistics, Monte Carlo methods, and machine learning techniques.  
+My research interests include Bayesian statistics, Monte Carlo methods, differential privacy, and machine learning techniques.  
 Email: xiongyifei21 [AT] mails.ucas.ac.cn
 
 ## News
@@ -29,7 +29,6 @@ Graduation Thesis Advisor: Prof. [Zhijian He](https://hezhijian.com.cn/)
 ## Talks
 
 - SNPE-B Revisited: Rethinking of Data Efficiency and Variance Reduction  
-Zhijian He, Yifei Xiong, Xiliang Yang  
 *10th International Congress on Industrial and Applied Mathematics (ICIAM)*  
 Waseda University, Tokyo, Aug 25, 2023. [[Link](https://iciam2023.org/registered_data?id=00652#04320)]  
 第十届国际工业与应用数学联合会, 早稻田大学
