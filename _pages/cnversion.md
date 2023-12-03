@@ -32,7 +32,11 @@ author_profile: true
 
 ## 论文发表
 
-- Conditional Density Estimations from Privacy-Protected Data  
+- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
+Xiliang Yang, **Yifei Xiong**, Zhijian He  
+Under review, Dec 2023.
+
+- Conditional density estimations from privacy-protected data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
 Under review, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
 
@@ -40,7 +44,7 @@ Under review, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
 **Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
 Under review, May 2023. [[arXiv](https://arxiv.org/abs/2311.12530)]
 
-- 3D Geometric Modeling Analysis of Contact Probability Effect in Carbon Black Oxidation over MnOx-CeO2 Catalysts  
+- 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
 *Chemical Engineering Journal*, May 2020. [[Article](https://doi.org/10.1016/j.cej.2020.125448)]
 
@@ -48,12 +52,12 @@ Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al
 - 2022年 &emsp; 获中国科学院大学数学科学学院三好学生
 - 2021年 &emsp; 获华南理工大学优秀毕业论文
 - 2021年 &emsp; 获华南理工大学优秀毕业生
-- 2020年 &emsp; 获2019-2020学年国家奖学金
+- 2020年 &emsp; **获2019-2020学年国家奖学金**
 - 2020年 &emsp; 获美国大学生数学建模竞赛一等奖(Meritorious Winners)
 - 2019年 &emsp; 获第十一届全国大学生数学竞赛（数学专业）一等奖
 - 2019年 &emsp; 获华南理工大学数学学院三好学生
 - 2019年 &emsp; 获全国大学生数学建模竞赛广东赛区一等奖
-- 2019年 &emsp; 获2018-2019学年国家奖学金
+- 2019年 &emsp; **获2018-2019学年国家奖学金**
 - 2019年 &emsp; 获美国大学生数学建模竞赛一等奖(Meritorious Winners)
 
 ## 技能

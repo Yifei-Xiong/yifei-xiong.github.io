@@ -38,9 +38,13 @@ Waseda University, Tokyo, Aug 25, 2023. [[Link](https://iciam2023.org/registered
 Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.io/files/An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation.pdf)] [[Link](https://mp.weixin.qq.com/s/LPwgNA87waDtVY_j1_9McA)]  
 第二十四届京津冀青年概率统计学术研讨会, 清华大学  
 
-## Publications
+## Publications and Manuscripts
 
-- Conditional Density Estimations from Privacy-Protected Data  
+- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
+Xiliang Yang, **Yifei Xiong**, Zhijian He  
+Under review, Dec 2023.
+
+- Conditional density estimations from privacy-protected data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
 Under review, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
 
@@ -48,6 +52,6 @@ Under review, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
 **Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
 Under review, May 2023. [[arXiv](https://arxiv.org/abs/2311.12530)]
 
-- 3D Geometric Modeling Analysis of Contact Probability Effect in Carbon Black Oxidation over MnOx-CeO2 Catalysts  
+- 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
 *Chemical Engineering Journal*, May 2020. [[Article](https://doi.org/10.1016/j.cej.2020.125448)]

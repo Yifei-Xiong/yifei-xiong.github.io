@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[PDF File](http://yifei-xiong.github.io/files/Yifei_Xiong_cv.pdf)]
+<!-- [[PDF File](http://yifei-xiong.github.io/files/Yifei_Xiong_cv.pdf)] -->
 
 ## Educations
 - Sep 2021 - Present, M.Sc. in *Probability and Mathematical Statistics*  
