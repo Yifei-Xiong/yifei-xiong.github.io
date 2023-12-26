@@ -49,6 +49,7 @@ Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al
 *Chemical Engineering Journal*, May 2020. [[Article](https://doi.org/10.1016/j.cej.2020.125448)]
 
 ## 获奖与荣誉
+- 2023年 &emsp; 获中国科学院大学研究生学业奖学金
 - 2022年 &emsp; 获中国科学院大学数学科学学院三好学生
 - 2021年 &emsp; 获华南理工大学优秀毕业论文
 - 2021年 &emsp; 获华南理工大学优秀毕业生

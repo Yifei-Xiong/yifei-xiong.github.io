@@ -4,6 +4,7 @@ title: "Awards and Honors"
 permalink: /awards/
 author_profile: true
 ---
+- 2023 &emsp; *Graduate Academic Scholarship*, University of Chinese Academy of Sciences
 - 2022 &emsp; *Merit Student*, University of Chinese Academy of Sciences
 <!-- https://math.ucas.ac.cn/index.php/zh-CN/qyntz/2741-2021-2024 -->
 - 2021 &emsp; *Outstanding Graduation Thesis* (top 3%), South China University of Technology
