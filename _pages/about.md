@@ -42,7 +42,7 @@ Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.
 
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
-Under review, Dec 2023.
+Under review, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
 - Conditional density estimations from privacy-protected data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
