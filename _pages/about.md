@@ -19,7 +19,7 @@ Some of my undergraduate maths course notes are now available on [here](https://
 ## Educations
 - Sep 2021 - Present, M.Sc. in *Probability and Mathematical Statistics*  
 [School of Mathematical Sciences](https://math.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
-Advisor: Prof. [Sanguo Zhang](https://people.ucas.ac.cn/~sgzhang?language=en)
+Advisor: Prof. [Sanguo Zhang](https://people.ucas.ac.cn/~sgzhang?language=en/)
 
 - Sep 2017 - Jul 2021, B.Sc. in *Mathematics and Applied Mathematics*  
 Minor in *Computer Science and Technology*  
