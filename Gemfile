@@ -21,7 +21,8 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll", "=3.9.3"
 # gem "github-pages", "=228"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

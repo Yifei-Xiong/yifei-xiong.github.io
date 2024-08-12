@@ -9,15 +9,19 @@ redirect_from:
 ---
 
 ## Yifei Xiong
-I am currently enrolled in a Master's program with a focus on Statistics and Machine Learning.  
+I am currently enrolled in a statistics PhD program with a focus on Bayesian Statistics and Machine Learning.  
 My research interests include Bayesian statistics, Monte Carlo methods, differential privacy, and machine learning techniques.  
-Email: xiongyifei21 [AT] mails.ucas.ac.cn
+Email: xiong173 [AT] purdue.edu
 
 ## News
 Some of my undergraduate maths course notes are now available on [here](https://bookdown.org/yifei/book/).
 
 ## Educations
-- Sep 2021 - Present, M.Sc. in *Probability and Mathematical Statistics*  
+- Sep 2024 - Present, PhD in *Statistics*  
+[Department of Statistics](https://www.stat.purdue.edu/), [Purdue University](https://www.purdue.edu/)  
+Advisor: Prof. [Nianqiao "Phyllis" Ju](https://nianqiaoju.github.io/)
+
+- Sep 2021 - Jul 2024, M.Sc. in *Probability and Mathematical Statistics*  
 [School of Mathematical Sciences](https://math.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
 Advisor: Prof. [Sanguo Zhang](https://people.ucas.ac.cn/~sgzhang?language=en)
 
@@ -46,11 +50,11 @@ Under review, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
 - Conditional density estimations from privacy-protected data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
-Under review, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
+Revised, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
 
 - An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
 **Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
-Under review, May 2023. [[arXiv](https://arxiv.org/abs/2311.12530)]
+Revised, May 2023. [[arXiv](https://arxiv.org/abs/2311.12530)]
 
 - 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  

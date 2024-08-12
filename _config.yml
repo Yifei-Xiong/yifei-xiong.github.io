@@ -83,11 +83,11 @@ author:
   name             : "熊逸飞<br>Yifei Xiong"
   avatar           : "profile1.png"
   bio              : "Occasionally predict, often infer, always learn."
-  location         : "Beijing, China"
+  location         : "West Lafayette, Indiana"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=efqbO1YAAAAJ&hl=zh-CN" # "http://yourfullgooglescholarurl.com"
-  email            : "xiongyifei21@mails.ucas.ac.cn"
+  email            : "xiong173@purdue.edu"
   researchgate     : "https://www.researchgate.net/profile/Yifei-Xiong-4" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -256,7 +256,9 @@ permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Beijing
+# timezone: Beijing
+# timezone: Asia/Shanghai
+timezone: America/Indiana/Indianapolis
 
 
 # Plugins

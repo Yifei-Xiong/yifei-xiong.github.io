@@ -13,11 +13,11 @@ Under review, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
 - Conditional density estimations from privacy-protected data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
-Under review, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
+Revised, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
 
 - An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
 **Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
-Under review, May 2023. [[arXiv](https://arxiv.org/abs/2311.12530)]
+Revised, May 2023. [[arXiv](https://arxiv.org/abs/2311.12530)]
 
 ## Publications
 
