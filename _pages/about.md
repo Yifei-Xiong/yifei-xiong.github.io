@@ -44,6 +44,10 @@ Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.
 
 ## Publications and Manuscripts
 
+- Evaluating and improving subspace inference in Bayesian deep learning  
+**Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
+Under review, Oct 2024. [[arXiv](https://yifei-xiong.github.io//404/)]
+
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
 Under review, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
