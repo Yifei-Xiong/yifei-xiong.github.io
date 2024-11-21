@@ -9,7 +9,7 @@ author_profile: true
 
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
-Under review, Oct 2024. [[slides](http://yifei-xiong.github.io/files/202410-subspace-inference.pdf)]
+Under review, Oct 2024.
 
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
