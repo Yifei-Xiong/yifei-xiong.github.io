@@ -19,11 +19,11 @@ Under review, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
 Revised, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
 
+## Publications
+
 - An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
 **Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
-Revised, May 2023. [[arXiv](https://arxiv.org/abs/2311.12530)]
-
-## Publications
+*Communications in Statistics - Simulation and Computation*, Jan 2025, in press. [[arXiv](https://arxiv.org/abs/2311.12530)]
 
 - 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
