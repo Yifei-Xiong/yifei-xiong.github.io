@@ -44,7 +44,7 @@ Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.
 
 - An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
 **Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
-*Communications in Statistics - Simulation and Computation*, Jan 2025, in press. [[arXiv](https://arxiv.org/abs/2311.12530)]
+*Communications in Statistics - Simulation and Computation*, Jan 2025. [[Article](https://doi.org/10.1080/03610918.2025.2456576)] [[arXiv](https://arxiv.org/abs/2311.12530)]
 
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
