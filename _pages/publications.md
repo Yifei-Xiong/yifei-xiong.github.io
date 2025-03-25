@@ -15,11 +15,11 @@ Under review, Oct 2024.
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
 Under review, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
-- Conditional density estimations from privacy-protected data  
-**Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
-Revised, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
-
 ## Publications
+
+- Simulation-based Bayesian Inference from Privacy Protected Data  
+**Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
+*Transactions on Machine Learning Research (TMLR)*, Mar 2025. in press. [[arXiv](https://arxiv.org/abs/2310.12781)]
 
 - An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
 **Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  

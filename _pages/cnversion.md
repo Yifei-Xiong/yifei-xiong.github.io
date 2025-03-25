@@ -37,6 +37,10 @@ author_profile: true
 
 ## 论文发表
 
+- Simulation-based Bayesian Inference from Privacy Protected Data  
+**Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
+*Transactions on Machine Learning Research (TMLR)*, Mar 2025. in press. [[arXiv](https://arxiv.org/abs/2310.12781)]
+
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
 Under review, Oct 2024. [[arXiv](https://yifei-xiong.github.io//404/)]
@@ -44,10 +48,6 @@ Under review, Oct 2024. [[arXiv](https://yifei-xiong.github.io//404/)]
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
 Under review, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
-
-- Conditional density estimations from privacy-protected data  
-**Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
-Revised, Oct 2023. [[arXiv](https://arxiv.org/abs/2310.12781)]
 
 - An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
 **Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
