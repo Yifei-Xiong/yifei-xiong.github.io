@@ -41,6 +41,10 @@ author_profile: true
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
 *Transactions on Machine Learning Research (TMLR)*, Mar 2025. in press. [[arXiv](https://arxiv.org/abs/2310.12781)]
 
+- An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
+**Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
+*Communications in Statistics - Simulation and Computation*, Jan 2025. [[Article](https://doi.org/10.1080/03610918.2025.2456576)] [[arXiv](https://arxiv.org/abs/2311.12530)]
+
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
 Under review, Oct 2024. [[arXiv](https://yifei-xiong.github.io//404/)]
@@ -48,10 +52,6 @@ Under review, Oct 2024. [[arXiv](https://yifei-xiong.github.io//404/)]
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
 Under review, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
-
-- An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
-**Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
-*Communications in Statistics - Simulation and Computation*, Jan 2025. [[Article](https://doi.org/10.1080/03610918.2025.2456576)] [[arXiv](https://arxiv.org/abs/2311.12530)]
 
 - 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
