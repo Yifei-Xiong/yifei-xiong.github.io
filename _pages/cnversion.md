@@ -39,7 +39,7 @@ author_profile: true
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
-*Transactions on Machine Learning Research (TMLR)*, Mar 2025. in press. [[arXiv](https://arxiv.org/abs/2310.12781)]
+*Transactions on Machine Learning Research (TMLR)*, Mar 2025. [[Article](https://openreview.net/pdf?id=SB7JzhDG45)] [[arXiv](https://arxiv.org/abs/2310.12781)]
 
 - An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
 **Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
