@@ -7,6 +7,10 @@ author_profile: true
 
 ## Manuscripts
 
+- SOMA: a novel sampler for exchangeable variables  
+**Yifei Xiong**, Nianqiao P. Ju
+Under review, May 2025.
+
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
 Under review, Oct 2024.
