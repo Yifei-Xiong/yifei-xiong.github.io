@@ -38,7 +38,7 @@ author_profile: true
 ## 论文发表
 
 - SOMA: a novel sampler for exchangeable variables  
-**Yifei Xiong**, Nianqiao P. Ju
+**Yifei Xiong**, Nianqiao P. Ju  
 Under review, May 2025.
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  

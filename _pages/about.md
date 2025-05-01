@@ -43,7 +43,7 @@ Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.
 ## Publications and Manuscripts
 
 - SOMA: a novel sampler for exchangeable variables  
-**Yifei Xiong**, Nianqiao P. Ju
+**Yifei Xiong**, Nianqiao P. Ju  
 Under review, May 2025.
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  
