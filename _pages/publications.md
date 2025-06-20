@@ -17,7 +17,7 @@ Under review, Oct 2024.
 
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
-Under review, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
+Revised, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
 ## Publications
 

@@ -60,7 +60,7 @@ Under review, Oct 2024.
 
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
-Under review, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
+Revised, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
 - 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
