@@ -7,6 +7,10 @@ author_profile: true
 
 ## Manuscripts
 
+- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
+Xiliang Yang, **Yifei Xiong**, Zhijian He  
+Last revised on July 2025. [[arXiv](https://arxiv.org/abs/2401.16776)]
+
 - SOMA: a novel sampler for exchangeable variables  
 **Yifei Xiong**, Nianqiao P. Ju  
 Under review, May 2025. [[arXiv](https://arxiv.org/abs/2505.00635)]
@@ -14,10 +18,6 @@ Under review, May 2025. [[arXiv](https://arxiv.org/abs/2505.00635)]
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
 Under review, Oct 2024.
-
-- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
-Xiliang Yang, **Yifei Xiong**, Zhijian He  
-Revised, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
 ## Publications
 
@@ -33,7 +33,11 @@ Revised, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
 *Chemical Engineering Journal*, May 2020. [[Article](https://doi.org/10.1016/j.cej.2020.125448)]
 
-## Talks
+## Talks & Posters
+
+- Simulation-based Bayesian Inference from Privacy Protected Data  
+*9th Bayesian, Fiducial, and Frequentist (BFF) Conference*  
+Purdue Indy, Indianapolis, May 13, 2025. [[Poster](http://yifei-xiong.github.io/files/bff9_poster.pdf)] [[Link](https://www.stat.purdue.edu/news/2024/bff9.html)]  
 
 - SNPE-B Revisited: Rethinking of Data Efficiency and Variance Reduction  
 Zhijian He, Yifei Xiong, Xiliang Yang  
