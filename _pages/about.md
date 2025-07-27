@@ -19,7 +19,7 @@ Some of my undergraduate maths course notes are now available on [here](https://
 ## Educations
 - Sep 2024 - Present, PhD in *Statistics*  
 [Department of Statistics](https://www.stat.purdue.edu/), [Purdue University](https://www.purdue.edu/)  
-Advisor: Prof. [Nianqiao "Phyllis" Ju](https://nianqiaoju.github.io/)
+Advisor: Prof. [Vinayak Rao](https://varao.github.io/) & Prof. [Nianqiao "Phyllis" Ju](https://nianqiaoju.github.io/)
 
 - Sep 2021 - Jul 2024, M.Sc. in *Probability and Mathematical Statistics*  
 [School of Mathematical Sciences](https://math.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)  

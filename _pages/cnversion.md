@@ -15,7 +15,7 @@ author_profile: true
 ## 教育经历
 - 2024年9月 - 至今, 理学博士  
 [普渡大学](https://www.purdue.edu/), [统计系](https://www.stat.purdue.edu/), 统计专业  
-导师: [鞠念桥](https://nianqiaoju.github.io/)
+导师: [Vinayak Rao](https://varao.github.io/) & [鞠念桥](https://nianqiaoju.github.io/)
 
 - 2021年9月 - 2024年7月, 理学硕士  
 [中国科学院大学](https://math.ucas.ac.cn/), [数学科学学院](https://www.ucas.ac.cn/), 概率论与数理统计专业  
