@@ -15,7 +15,7 @@ author_profile: true
 ## 教育经历
 - 2024年9月 - 至今, 理学博士  
 [普渡大学](https://www.purdue.edu/), [统计系](https://www.stat.purdue.edu/), 统计专业  
-导师: [鞠念桥](https://nianqiaoju.github.io/)
+导师: [Vinayak Rao](https://varao.github.io/) & [鞠念桥](https://nianqiaoju.github.io/)
 
 - 2021年9月 - 2024年7月, 理学硕士  
 [中国科学院大学](https://math.ucas.ac.cn/), [数学科学学院](https://www.ucas.ac.cn/), 概率论与数理统计专业  
@@ -28,14 +28,23 @@ author_profile: true
 
 ## 学术报告
 
-- SNPE-B Revisited: Rethinking of Data Efficiency and Variance Reduction  
-[第十届国际工业与应用数学联合会(ICIAM)](https://iciam2023.org/registered_data?id=00652#04320), 早稻田大学  
+- Simulation-based Bayesian Inference from Privacy Protected Data  
+*9th Bayesian, Fiducial, and Frequentist (BFF) Conference*  
+Purdue Indy, Indianapolis, May 13, 2025. [[Poster](http://yifei-xiong.github.io/files/bff9_poster.pdf)] [[Link](https://www.stat.purdue.edu/news/2024/bff9.html)]  
 
+- SNPE-B Revisited: Rethinking of Data Efficiency and Variance Reduction  
+*10th International Congress on Industrial and Applied Mathematics (ICIAM)*  
+Waseda University, Tokyo, Aug 25, 2023. [[Link](https://iciam2023.org/registered_data?id=00652#04320)]  
 
 - An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
-[第二十四届京津冀青年概率统计学术研讨会](https://mp.weixin.qq.com/s/LPwgNA87waDtVY_j1_9McA), 清华大学  
+*The 24th Beijing-Tianjin-Hebei Youth Symposium on Probability Statistics*  
+Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.io/files/An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation.pdf)] [[Link](https://mp.weixin.qq.com/s/LPwgNA87waDtVY_j1_9McA)]  
 
 ## 论文发表
+
+- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
+Xiliang Yang, **Yifei Xiong**, Zhijian He  
+Last revised on July 2025. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
 - SOMA: a novel sampler for exchangeable variables  
 **Yifei Xiong**, Nianqiao P. Ju  
@@ -52,10 +61,6 @@ Under review, May 2025. [[arXiv](https://arxiv.org/abs/2505.00635)]
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
 Under review, Oct 2024. [[arXiv](https://yifei-xiong.github.io//404/)]
-
-- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
-Xiliang Yang, **Yifei Xiong**, Zhijian He  
-Under review, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
 - 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
