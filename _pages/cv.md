@@ -29,13 +29,18 @@ GPA: 3.76 / 4.00;  Major Rank: 1 / 50
 
 ## Research Interests 
 - Bayesian Statistics: Likelihood-free Bayesian inference, Approximate Bayesian computation, Variational inference  
-- Sampling Methods: Multilevel Monte Carlo methods, Quasi-Monte Carlo methods 
-- Machine Learning: Normalizing flows, Variational autoencoders
+- Sampling Methods: Multilevel Monte Carlo methods, Quasi-Monte Carlo methods  
+- Machine Learning: Normalizing flows, Variational autoencoders 
 
 ## Teaching Assistant
-  Postgraduate Courses in University of Chinese Academy of Sciences:  
-- Advanced Probability (Fall 2023, Fall 2022) 
-- Stochastic Processes (Spr 2023, Spr 2024)
+  in Purdue University:  
+- STAT 30301: Probability and Statistics for Business (Spr 2025)  
+  in University of Chinese Academy of Sciences:  
+- Stochastic Processes (Spr 2023, Spr 2024)  
+- Advanced Probability (Fall 2023, Fall 2022)  
+
+## Professional Service
+- Reviewer, International Conference on Learning Representations (ICLR), 2025
 
 ## Publications & Talks
 - For detailed information, please refer to [here](http://yifei-xiong.github.io/publications/)
