@@ -33,10 +33,10 @@ GPA: 3.76 / 4.00;  Major Rank: 1 / 50
 - Machine Learning: Normalizing flows, Variational autoencoders 
 
 ## Teaching Assistant
-  in Purdue University:  
+in Purdue University:  
 - STAT 30301: Probability and Statistics for Business (Spr 2025)  
 
-  in University of Chinese Academy of Sciences:  
+in University of Chinese Academy of Sciences:  
 - Stochastic Processes (Spr 2023, Spr 2024)  
 - Advanced Probability (Fall 2023, Fall 2022)  
 
