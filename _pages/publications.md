@@ -7,13 +7,13 @@ author_profile: true
 
 ## Manuscripts
 
-- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
-Xiliang Yang, **Yifei Xiong**, Zhijian He  
-Last revised on July 2025. [[arXiv](https://arxiv.org/abs/2401.16776)]
-
 - SOMA: a novel sampler for exchangeable variables  
 **Yifei Xiong**, Nianqiao P. Ju  
-Under review, May 2025. [[arXiv](https://arxiv.org/abs/2505.00635)]
+Last revised on Nov 2025. [[arXiv](https://arxiv.org/abs/2505.00635)]
+
+- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
+Xiliang Yang, **Yifei Xiong**, Zhijian He  
+Last revised on Sep 2025. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
