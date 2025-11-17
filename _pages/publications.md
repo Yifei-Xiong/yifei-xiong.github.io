@@ -11,15 +11,15 @@ author_profile: true
 **Yifei Xiong**, Nianqiao P. Ju  
 Last revised on Nov 2025. [[arXiv](https://arxiv.org/abs/2505.00635)]
 
-- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
-Xiliang Yang, **Yifei Xiong**, Zhijian He  
-Last revised on Sep 2025. [[arXiv](https://arxiv.org/abs/2401.16776)]
-
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
 Under review, Oct 2024.
 
 ## Publications
+
+- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
+Xiliang Yang, **Yifei Xiong**, Zhijian He  
+Accepted by *SIAM Journal on Scientific Computing*, Nov, 2025. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  

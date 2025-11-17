@@ -44,11 +44,11 @@ Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.
 
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
-Last revised on July 2025. [[arXiv](https://arxiv.org/abs/2401.16776)]
+Accepted by *SIAM Journal on Scientific Computing*, Nov, 2025. [[arXiv](https://arxiv.org/abs/2401.16776)]
 
 - SOMA: a novel sampler for exchangeable variables  
 **Yifei Xiong**, Nianqiao P. Ju  
-Under review, May 2025. [[arXiv](https://arxiv.org/abs/2505.00635)]
+Last revised on Nov 2025. [[arXiv](https://arxiv.org/abs/2505.00635)]
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
