@@ -28,9 +28,10 @@ Graduation Thesis Advisor: Prof. [Zhijian He](https://hezhijian.com.cn/)
 GPA: 3.76 / 4.00;  Major Rank: 1 / 50
 
 ## Research Interests 
-- Bayesian Statistics: Likelihood-free Bayesian inference, Approximate Bayesian computation, Variational inference  
+- Bayesian Statistics: Likelihood-free Bayesian inference, Approximate Bayesian computation  
 - Sampling Methods: Multilevel Monte Carlo methods, Quasi-Monte Carlo methods  
-- Machine Learning: Normalizing flows, Variational autoencoders 
+- Machine Learning: Normalizing flows, generative models  
+- Differential Privacy: Privacy-preserving data analysis, privacy in machine learning  
 
 ## Teaching Assistant
 Purdue University:  
