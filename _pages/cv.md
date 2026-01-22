@@ -44,6 +44,8 @@ University of Chinese Academy of Sciences:
 
 ## Professional Service
 - Reviewer, International Conference on Learning Representations (ICLR), 2025
+- Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2026
+- Reviewer, International Conference on Learning Representations (ICLR), 2026
 
 ## Publications & Talks
 - For detailed information, please refer to [here](http://yifei-xiong.github.io/publications/)

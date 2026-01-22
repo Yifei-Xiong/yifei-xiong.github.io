@@ -69,3 +69,8 @@ Under review, Oct 2024.
 - 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
 *Chemical Engineering Journal*, May 2020. [[Article](https://doi.org/10.1016/j.cej.2020.125448)]
+
+## Professional Service
+- Reviewer, International Conference on Learning Representations (ICLR), 2025
+- Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2026
+- Reviewer, International Conference on Learning Representations (ICLR), 2026
