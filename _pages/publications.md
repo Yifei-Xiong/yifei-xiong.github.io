@@ -7,9 +7,9 @@ author_profile: true
 
 ## Manuscripts
 
-- SOMA: a novel sampler for exchangeable variables  
+- SOMA: a novel sampler for Bayesian inference from privatized data  
 **Yifei Xiong**, Nianqiao P. Ju  
-Last revised on Nov 2025. [[arXiv](https://arxiv.org/abs/2505.00635)]
+Last revised on Feb 2026. [[arXiv](https://arxiv.org/abs/2505.00635)] [[code](https://github.com/Yifei-Xiong/SOMA-Sampler)]
 
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
@@ -19,15 +19,15 @@ Under review, Oct 2024.
 
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
-Accepted by *SIAM Journal on Scientific Computing*, Nov, 2025. [[arXiv](https://arxiv.org/abs/2401.16776)]
+Accepted by *SIAM Journal on Scientific Computing*, Nov, 2025. [[arXiv](https://arxiv.org/abs/2401.16776)] [[code](https://github.com/Yifei-Xiong/MLMC-SNPE)]
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
-*Transactions on Machine Learning Research (TMLR)*, Mar 2025. [[Article](https://openreview.net/pdf?id=SB7JzhDG45)] [[arXiv](https://arxiv.org/abs/2310.12781)]
+*Transactions on Machine Learning Research (TMLR)*, Mar 2025. [[Article](https://openreview.net/pdf?id=SB7JzhDG45)] [[arXiv](https://arxiv.org/abs/2310.12781)] [[code](https://github.com/Yifei-Xiong/Simulation-based-Bayesian-Inference-from-Privacy-Protected-Data)]
 
 - An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
 **Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
-*Communications in Statistics - Simulation and Computation*, Jan 2025. [[Article](https://doi.org/10.1080/03610918.2025.2456576)] [[arXiv](https://arxiv.org/abs/2311.12530)]
+*Communications in Statistics - Simulation and Computation*, Jan 2025. [[Article](https://doi.org/10.1080/03610918.2025.2456576)] [[arXiv](https://arxiv.org/abs/2311.12530)] [[code](https://github.com/Yifei-Xiong/Efficient-SNPE)]
 
 - 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
