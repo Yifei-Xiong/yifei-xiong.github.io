@@ -47,60 +47,62 @@ Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.
 ## Publications and Manuscripts
 
 - SOMA: a novel sampler for Bayesian inference from privatized data  
-**Yifei Xiong**, Nianqiao P. Ju
-  <br>Keywords:
+**Yifei Xiong**, Nianqiao P. Ju  
+Keywords: `MCMC` `Differential Privacy` `Bayesian Inference`
+<!--   <br>Keywords:
   <span class="pub-tags">
     <span class="tag green">MCMC</span>
     <span class="tag purple">Differential Privacy</span>
     <span class="tag blue">Bayesian Inference</span>
-  </span><br>
+  </span> -->
 Last revised on Feb 2026. [[ArXiv](https://arxiv.org/abs/2505.00635)] [[Code](https://github.com/Yifei-Xiong/SOMA-Sampler)]
 
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
-Xiliang Yang, **Yifei Xiong**, Zhijian He
-  <br>Keywords:
+Xiliang Yang, **Yifei Xiong**, Zhijian He  
+Keywords: `Simulation-based Inference` `Multilevel Monte Carlo` `Normalizing Flows`
+<!--   <br>Keywords:
   <span class="pub-tags">
     <span class="tag orange">Simulation-based Inference</span>
     <span class="tag">Multilevel Monte Carlo</span>
     <span class="tag red">Normalizing Flows</span>
-  </span><br>
+  </span> -->
 Accepted by *SIAM Journal on Scientific Computing*, Nov, 2025. [[ArXiv](https://arxiv.org/abs/2401.16776)] [[Code](https://github.com/Yifei-Xiong/MLMC-SNPE)]
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  
-**Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang
-  <br>Keywords:
+**Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
+<!--   <br>Keywords:
   <span class="pub-tags">
     <span class="tag orange">Simulation-based Inference</span>
     <span class="tag purple">Differential Privacy</span>
     <span class="tag">Quasi-Monte Carlo</span>
-  </span><br>
+  </span> -->
 *Transactions on Machine Learning Research (TMLR)*, Mar 2025. [[Article](https://openreview.net/pdf?id=SB7JzhDG45)] [[ArXiv](https://arxiv.org/abs/2310.12781)] [[Code](https://github.com/Yifei-Xiong/Simulation-based-Bayesian-Inference-from-Privacy-Protected-Data)]
 
 - An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
-**Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He
-  <br>Keywords:
+**Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
+<!--   <br>Keywords:
   <span class="pub-tags">
     <span class="tag blue">Bayesian Inference</span>
     <span class="tag red">Normalizing Flows</span>
     <span class="tag">Variance reduction</span>
-  </span><br>
+  </span> -->
 *Communications in Statistics - Simulation and Computation*, Jan 2025. [[Article](https://doi.org/10.1080/03610918.2025.2456576)] [[ArXiv](https://arxiv.org/abs/2311.12530)] [[Code](https://github.com/Yifei-Xiong/Efficient-SNPE)]
 
 - Evaluating and improving subspace inference in Bayesian deep learning  
-**Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang
-  <br>Keywords:
+**Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
+<!--   <br>Keywords:
   <span class="pub-tags">
     <span class="tag">Subspace Inference</span>
     <span class="tag">Bayesian Neural networks</span>
-  </span><br>
+  </span> -->
 Under review, Oct 2024.
 
 - 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
-Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al
-  <br>Keywords:
+Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
+<!--   <br>Keywords:
   <span class="pub-tags">
     <span class="tag">Geometric Modeling</span>
-  </span><br>
+  </span> -->
 *Chemical Engineering Journal*, May 2020. [[Article](https://doi.org/10.1016/j.cej.2020.125448)]
 
 ## Professional Service
