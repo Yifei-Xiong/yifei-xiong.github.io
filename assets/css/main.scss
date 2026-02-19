@@ -40,10 +40,26 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* publication tags */
-.pub-tags{margin:.25rem 0 .85rem}
-.tag{display:inline-block;padding:2px 10px;margin:0 6px 6px 0;border-radius:999px;
-     font-size:.82em;line-height:1.6;border:1px solid #e5e7eb;background:#f3f4f6;color:#374151}
+/* Publication tags */
+.pub-tags{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin:10px 0 14px 0;
+}
+
+.tag{
+  display:inline-flex;
+  align-items:center;
+  padding:6px 12px;
+  border-radius:999px;
+  font-size:.88em;
+  border:1px solid #e5e7eb;
+  background:#f3f4f6;
+  color:#374151;
+  white-space:nowrap;
+}
+
 .tag.blue{background:#eef2ff;border-color:#c7d2fe;color:#3730a3}
 .tag.green{background:#ecfdf5;border-color:#a7f3d0;color:#065f46}
 .tag.purple{background:#f5f3ff;border-color:#ddd6fe;color:#5b21b6}

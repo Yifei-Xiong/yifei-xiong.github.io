@@ -47,17 +47,21 @@ Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.
 ## Publications and Manuscripts
 
 - SOMA: a novel sampler for Bayesian inference from privatized data  
-**Yifei Xiong**, Nianqiao P. Ju  
-<div class="pub-tags">
-  <span class="tag blue">Differential Privacy</span>
-  <span class="tag purple">Bayesian Inference</span>
-  <span class="tag green">MCMC</span>
-  <span class="tag">Sampler</span>
-</div>
+**Yifei Xiong**, Nianqiao P. Ju<br>
+  <span class="pub-tags">
+    <span class="tag blue">Differential Privacy</span>
+    <span class="tag purple">Bayesian Inference</span>
+    <span class="tag green">MCMC</span>
+    <span class="tag">Sampler</span>
+  </span>
 Last revised on Feb 2026. [[ArXiv](https://arxiv.org/abs/2505.00635)] [[Code](https://github.com/Yifei-Xiong/SOMA-Sampler)]
 
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
+<div class="pub-tags">
+  <span class="tag blue">Simulation-based Inference</span>
+  <span class="tag purple">Multilevel Monte Carlo</span>
+</div>
 Accepted by *SIAM Journal on Scientific Computing*, Nov, 2025. [[ArXiv](https://arxiv.org/abs/2401.16776)] [[Code](https://github.com/Yifei-Xiong/MLMC-SNPE)]
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  
