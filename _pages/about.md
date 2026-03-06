@@ -32,6 +32,10 @@ Graduation Thesis Advisor: Prof. [Zhijian He](https://hezhijian.com.cn/)
 
 ## Talks & Posters
 
+- Bayesian Inference on Privatized Data 
+*Computational Mathematics and Statistics (CMS) Seminar*  
+Illinois Tech, Chicago, Apr 09, 2026.  
+
 - Simulation-based Bayesian Inference from Privacy Protected Data  
 *9th Bayesian, Fiducial, and Frequentist (BFF) Conference*  
 Purdue Indy, Indianapolis, May 13, 2025. [[Poster](http://yifei-xiong.github.io/files/bff9_poster.pdf)] [[Link](https://www.stat.purdue.edu/news/2024/bff9.html)]  
