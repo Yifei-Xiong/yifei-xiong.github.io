@@ -41,7 +41,7 @@ Keywords: `Geometric Modeling`
 
 ## Talks & Posters
 
-- Bayesian Inference on Privatized Data 
+- Bayesian Inference on Privatized Data  
 *Computational Mathematics and Statistics (CMS) Seminar*  
 Illinois Tech, Chicago, Apr 09, 2026.  
 
