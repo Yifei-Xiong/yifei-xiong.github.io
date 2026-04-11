@@ -28,6 +28,10 @@ author_profile: true
 
 ## 学术报告
 
+- Inference from Privatized Data: Sampling-based and Variational-based Bayesian Computation 
+*Computational Mathematics and Statistics (CMS) Seminar*  
+Illinois Tech, Chicago, Apr 09, 2026. [[Slides](http://yifei-xiong.github.io/files/Inference_from_Privatized_Data.pdf)]  
+
 - Simulation-based Bayesian Inference from Privacy Protected Data  
 *9th Bayesian, Fiducial, and Frequentist (BFF) Conference*  
 Purdue Indy, Indianapolis, May 13, 2025. [[Poster](http://yifei-xiong.github.io/files/bff9_poster.pdf)] [[Link](https://www.stat.purdue.edu/news/2024/bff9.html)]  

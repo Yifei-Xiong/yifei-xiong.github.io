@@ -41,9 +41,9 @@ Keywords: `Geometric Modeling`
 
 ## Talks & Posters
 
-- Bayesian Inference on Privatized Data  
+- Inference from Privatized Data: Sampling-based and Variational-based Bayesian Computation 
 *Computational Mathematics and Statistics (CMS) Seminar*  
-Illinois Tech, Chicago, Apr 09, 2026.  
+Illinois Tech, Chicago, Apr 09, 2026. [[Slides](http://yifei-xiong.github.io/files/Inference_from_Privatized_Data.pdf)]  
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  
 *9th Bayesian, Fiducial, and Frequentist (BFF) Conference*  
