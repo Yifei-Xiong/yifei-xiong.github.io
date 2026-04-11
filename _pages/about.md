@@ -32,7 +32,7 @@ Graduation Thesis Advisor: Prof. [Zhijian He](https://hezhijian.com.cn/)
 
 ## Talks & Posters
 
-- Inference from Privatized Data: Sampling-based and Variational-based Bayesian Computation 
+- Inference from Privatized Data: Sampling-based and Variational-based Bayesian Computation  
 *Computational Mathematics and Statistics (CMS) Seminar*  
 Illinois Tech, Chicago, Apr 09, 2026. [[Slides](http://yifei-xiong.github.io/files/Inference_from_Privatized_Data.pdf)]  
 
@@ -72,7 +72,7 @@ Keywords: `Bayesian Inference` `Normalizing Flows` `Variance Reduction`
 
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
-Keywords: `Bayesian Inference` `Bayesian Neural networks`  
+Keywords: `Subspace Inference` `Bayesian Neural networks`  
 Under review, Oct 2024.
 
 - 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  

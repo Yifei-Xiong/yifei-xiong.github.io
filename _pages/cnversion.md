@@ -28,7 +28,7 @@ author_profile: true
 
 ## 学术报告
 
-- Inference from Privatized Data: Sampling-based and Variational-based Bayesian Computation 
+- Inference from Privatized Data: Sampling-based and Variational-based Bayesian Computation  
 *Computational Mathematics and Statistics (CMS) Seminar*  
 Illinois Tech, Chicago, Apr 09, 2026. [[Slides](http://yifei-xiong.github.io/files/Inference_from_Privatized_Data.pdf)]  
 
