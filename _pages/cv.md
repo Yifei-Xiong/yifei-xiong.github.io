@@ -35,11 +35,11 @@ GPA: 3.76 / 4.00;  Major Rank: 1 / 50
 
 ## Teaching Assistant
 Purdue University:  
-- CS/STAT 242: Introduction To Data Science (Spr 2026)  
-- STAT 303: Probability and Statistics for Business (Fall 2025)  
+- CS/STAT 242: Introduction To Data Science (Spring 2026)  
+- STAT 303: Probability and Statistics for Business (Summer 2026, Fall 2025)  
 
 University of Chinese Academy of Sciences:  
-- Stochastic Processes (Spr 2023, Spr 2024)  
+- Stochastic Processes (Spring 2023, Spring 2024)  
 - Advanced Probability (Fall 2023, Fall 2022)  
 
 ## Professional Service
