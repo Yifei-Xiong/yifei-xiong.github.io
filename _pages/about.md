@@ -84,3 +84,7 @@ Keywords: `Geometric Modeling`
 - Reviewer, International Conference on Learning Representations (ICLR), 2025
 - Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2026
 - Reviewer, International Conference on Learning Representations (ICLR), 2026
+
+## Open-source Contributions
+
+- Contributor, [QMCPy](https://qmcpy.org/), an open-source Python package for quasi-Monte Carlo methods.

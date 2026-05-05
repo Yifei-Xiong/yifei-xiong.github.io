@@ -47,6 +47,10 @@ University of Chinese Academy of Sciences:
 - Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2026
 - Reviewer, International Conference on Learning Representations (ICLR), 2026
 
+## Open-source Contributions
+
+- Contributor, [QMCPy](https://qmcpy.org/), an open-source Python package for quasi-Monte Carlo methods.
+
 ## Publications & Talks
 - For detailed information, please refer to [here](http://yifei-xiong.github.io/publications/)
 
