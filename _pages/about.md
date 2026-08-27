@@ -50,15 +50,20 @@ Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.
 
 ## Publications and Manuscripts
 
-- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
-Xiliang Yang, **Yifei Xiong**, Zhijian He  
-Keywords: `Simulation-based Inference` `Multilevel Monte Carlo` `Normalizing Flows`  
-*SIAM Journal on Scientific Computing*, Apr, 2026. [[Article](https://doi.org/10.1137/24M1635685)] [[ArXiv](https://arxiv.org/abs/2401.16776)] [[Code](https://github.com/Yifei-Xiong/MLMC-SNPE)]
+- Statistical Properties of Nonparametric MLE under Laplace Noise  
+**Yifei Xiong**, Nianqiao P. Ju, Vinayak Rao  
+Keywords: `Nonparametric MLE` `Local Differential Privacy` `Laplace Mechanism`  
+Last revised on Aug 2026. [[ArXiv](https://arxiv.org/abs/2608.25997)] [[Code](https://github.com/Yifei-Xiong/NPMLE-Laplace)]
 
 - SOMA: a novel sampler for Bayesian inference from privatized data  
 **Yifei Xiong**, Nianqiao P. Ju  
 Keywords: `MCMC` `Differential Privacy` `Bayesian Inference`  
-Last revised on Feb 2026. [[ArXiv](https://arxiv.org/abs/2505.00635)] [[Code](https://github.com/Yifei-Xiong/SOMA-Sampler)]
+Last revised on Jul 2026. [[ArXiv](https://arxiv.org/abs/2505.00635)] [[Code](https://github.com/Yifei-Xiong/SOMA-Sampler)]
+
+- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
+Xiliang Yang, **Yifei Xiong**, Zhijian He  
+Keywords: `Simulation-based Inference` `Multilevel Monte Carlo` `Normalizing Flows`  
+*SIAM Journal on Scientific Computing*, Apr, 2026. [[Article](https://doi.org/10.1137/24M1635685)] [[ArXiv](https://arxiv.org/abs/2401.16776)] [[Code](https://github.com/Yifei-Xiong/MLMC-SNPE)]
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
@@ -81,9 +86,10 @@ Keywords: `Geometric Modeling`
 *Chemical Engineering Journal*, May 2020. [[Article](https://doi.org/10.1016/j.cej.2020.125448)]
 
 ## Professional Service
-- Reviewer, International Conference on Learning Representations (ICLR), 2025
-- Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2026
+- Reviewer, Neural Information Processing Systems (NeurIPS), 2026
 - Reviewer, International Conference on Learning Representations (ICLR), 2026
+- Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2026
+- Reviewer, International Conference on Learning Representations (ICLR), 2025
 
 ## Open-source Contributions
 
