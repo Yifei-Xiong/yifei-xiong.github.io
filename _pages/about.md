@@ -63,7 +63,7 @@ Last revised on Jul 2026. [[ArXiv](https://arxiv.org/abs/2505.00635)] [[Code](ht
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
 Keywords: `Simulation-based Inference` `Multilevel Monte Carlo` `Normalizing Flows`  
-*SIAM Journal on Scientific Computing*, Apr, 2026. [[Article](https://doi.org/10.1137/24M1635685)] [[ArXiv](https://arxiv.org/abs/2401.16776)] [[Code](https://github.com/Yifei-Xiong/MLMC-SNPE)]
+*SIAM Journal on Scientific Computing*, Apr 2026. [[Article](https://doi.org/10.1137/24M1635685)] [[ArXiv](https://arxiv.org/abs/2401.16776)] [[Code](https://github.com/Yifei-Xiong/MLMC-SNPE)]
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
