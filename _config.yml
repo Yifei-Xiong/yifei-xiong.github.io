@@ -86,7 +86,7 @@ author:
   location         : "West Lafayette, Indiana"
   employer         : "Purdue University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=efqbO1YAAAAJ&hl=zh-CN" # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=efqbO1YAAAAJ&hl=en" # "http://yourfullgooglescholarurl.com"
   email            : "xiong173@purdue.edu"
   researchgate     : "https://www.researchgate.net/profile/Yifei-Xiong-4" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
