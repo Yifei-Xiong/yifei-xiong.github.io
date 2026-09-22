@@ -29,23 +29,24 @@ GPA: 3.76 / 4.00;  Major Rank: 1 / 50
 
 ## Research Interests 
 - Bayesian Statistics: Likelihood-free Bayesian inference, Approximate Bayesian computation  
-- Sampling Methods: Multilevel Monte Carlo methods, Quasi-Monte Carlo methods  
+- Sampling Methods: Langevin Monte Carlo, Multilevel Monte Carlo, Quasi-Monte Carlo  
 - Machine Learning: Normalizing flows, generative models  
 - Differential Privacy: Privacy-preserving data analysis, privacy in machine learning  
 
 ## Teaching Assistant
 Purdue University:  
 - CS/STAT 242: Introduction To Data Science (Spring 2026)  
-- STAT 303: Probability and Statistics for Business (Summer 2026, Fall 2025)  
+- STAT 303: Probability and Statistics for Business (Fall 2026, Summer 2026, Fall 2025)  
 
 University of Chinese Academy of Sciences:  
 - Stochastic Processes (Spring 2023, Spring 2024)  
 - Advanced Probability (Fall 2023, Fall 2022)  
 
 ## Professional Service
-- Reviewer, International Conference on Learning Representations (ICLR), 2025
-- Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2026
+- Reviewer, Neural Information Processing Systems (NeurIPS), 2026
 - Reviewer, International Conference on Learning Representations (ICLR), 2026
+- Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2026
+- Reviewer, International Conference on Learning Representations (ICLR), 2025
 
 ## Open-source Contributions
 
