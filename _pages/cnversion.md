@@ -46,17 +46,21 @@ Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.
 
 ## 论文发表
 
+- Localized Stochastic Particle Optimization Sampling  
+**Yifei Xiong**, Yushu Huang, Faming Liang  
+Under review, Oct 2026.
+
 - Statistical Properties of Nonparametric MLE under Laplace Noise  
 **Yifei Xiong**, Nianqiao P. Ju, Vinayak Rao  
 Last revised on Aug 2026. [[ArXiv](https://arxiv.org/abs/2608.25997)]
 
-- SOMA: a novel sampler for Bayesian inference from privatized data  
-**Yifei Xiong**, Nianqiao P. Ju  
-Last revised on Jul 2026. [[ArXiv](https://arxiv.org/abs/2505.00635)]
-
 - Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
 Xiliang Yang, **Yifei Xiong**, Zhijian He  
 *SIAM Journal on Scientific Computing*, Apr 2026. [[Article](https://doi.org/10.1137/24M1635685)] [[ArXiv](https://arxiv.org/abs/2401.16776)] [[Code](https://github.com/Yifei-Xiong/MLMC-SNPE)]
+
+- SOMA: a novel sampler for Bayesian inference from privatized data  
+**Yifei Xiong**, Nianqiao P. Ju  
+Last revised on Feb 2026. [[ArXiv](https://arxiv.org/abs/2505.00635)]
 
 - Simulation-based Bayesian Inference from Privacy Protected Data  
 **Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
@@ -68,7 +72,7 @@ Xiliang Yang, **Yifei Xiong**, Zhijian He
 
 - Evaluating and improving subspace inference in Bayesian deep learning  
 **Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
-Under review, Oct 2024. [[ArXiv](https://yifei-xiong.github.io//404/)]
+Under review, Oct 2024.
 
 - 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
 Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
