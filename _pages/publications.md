@@ -7,6 +7,11 @@ author_profile: true
 
 ## Manuscripts
 
+- Wasserstein Bounds for Euler and Randomized Midpoint Langevin Sampling with Noisy Gradients  
+**Yifei Xiong**, Vinayak Rao  
+Keywords: `Langevin Monte Carlo` `Stochastic gradient Langevin dynamics` `Wasserstein distance`  
+Under review, Oct 2026. [[ArXiv](https://arxiv.org/abs/2610.37858)]
+
 - Localized Stochastic Particle Optimization Sampling  
 **Yifei Xiong**, Yushu Huang, Faming Liang  
 Keywords: `Stochastic gradient Langevin dynamics` `Particle-based sampling`  

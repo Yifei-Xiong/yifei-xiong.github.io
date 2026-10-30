@@ -46,6 +46,10 @@ Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.
 
 ## 论文发表
 
+- Wasserstein Bounds for Euler and Randomized Midpoint Langevin Sampling with Noisy Gradients  
+**Yifei Xiong**, Vinayak Rao  
+Under review, Oct 2026. [[ArXiv](https://arxiv.org/abs/2610.37858)]
+
 - Localized Stochastic Particle Optimization Sampling  
 **Yifei Xiong**, Yushu Huang, Faming Liang  
 Under review, Oct 2026.
